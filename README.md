@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there, I'm Guillaume Acke
+
+## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+
+- 🖥 Quantum Chemist interested in Quantum Computing and Machine Learning
+- 💼 Postdoctoral research associate at the Ghent Quantum Chemistry Group (UGent)
+- 🎓 PhD in Chemistry
+
+
 
 <!--
 **guacke/guacke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
